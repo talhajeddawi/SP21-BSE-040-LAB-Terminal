@@ -1,0 +1,23 @@
+For Authors:
+1. http://localhost:3000/api/authors (GET ALL AUTHORS)
+2. http://localhost:3000/api/authors/objectIDofAuthor (GET BY ID)
+3. http://localhost:3000/api/authors/objectIDofAuthor (UPDATE BY ID)
+4. http://localhost:3000/api/authors/objectIDofAuthor (DELETE BY ID)
+5. http://localhost:3000/api/authors (POST AUTHOR)
+
+
+For Books:
+1. http://localhost:3000/api/books (GET ALL BOOKS)
+2. http://localhost:3000/api/books/objectIDofBook (GET BY ID)
+3. http://localhost:3000/api/books/objectIDofBook (UPDATE BY ID)
+4. http://localhost:3000/api/books/objectIDofBook (DELETE BY ID)
+5. http://localhost:3000/api/books (POST BOOK)
+6. http://localhost:3000/api/books/objectIDofBook/availableCopies (UPDATE AVAILABLE COPIES)
+
+
+For Borrowers:
+1. http://localhost:3000/api/borrowers (GET ALL BORROWERS)
+2. http://localhost:3000/api/borrowers/objectIDofBorrower (GET BY ID)
+3. http://localhost:3000/api/borrowers/objectIDofBorrower (UPDATE BY ID)
+4. http://localhost:3000/api/borrowers/objectIDofBorrower (DELETE BY ID)
+5. http://localhost:3000/api/borrowers (POST BOOK)
