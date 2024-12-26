@@ -12,6 +12,8 @@ I tried to perform all the instructions that were written in the question paper.
 9. The logic to borrow the book.
 10. The logic to return the book.
 11. All of the tests were verified using POSTMAN.
+12. The management of books copies.
+13. Logic to borrow books according to membership (Standard and Premium).
 
 # Library Management System API
 
